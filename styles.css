@@ -40,9 +40,10 @@ body{
     padding: 22px 15px;
 }
 
-h2{
+h1{
     color: hsl(218, 44%, 22%);
     padding-bottom: 15px;
+    font-size: 1.5em;
 }
 
 p{
